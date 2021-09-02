@@ -31,7 +31,7 @@ public class Email {
 		
 	}
 	
-	//Обратитесь в департамент
+	//Обратитесь в департамент!!!
 	private String setDepartment() {
 		System.out.print("New worker:" + firstName + " .Введите отдел\n1 for Sales\n2 for Development\n3 for Accounting\n0 for none\nEnter department code: ");
 		Scanner in = new Scanner(System.in);
