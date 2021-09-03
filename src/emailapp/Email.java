@@ -8,7 +8,7 @@ public class Email {
 	private String password;
 	private String email;
 	private String department;
-	private int mailboxCapacity = 500;
+	private int mailboxCapacity = 400;
 	private int defaultPasswordLenght = 10;
 	private String alternateEmail;
 	private String companySuffix = "dsxcompany.com";
